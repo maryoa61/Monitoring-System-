@@ -1,0 +1,6 @@
+{
+  "name": "VPN-X Monitoring & Diagnostics",
+  "description": "سامانه پایش خودکار و عیب‌یابی ناپایداری‌های هسته VPN-X",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
